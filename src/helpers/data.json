@@ -1,0 +1,238 @@
+[
+    {
+      "category": "history",
+      "id": "63989c195c9a75021f310480",
+      "selected": "",
+      "correctAnswer": "Absolute Monarchy",
+      "allAnswers": [
+        "Democracy",
+        "Constitutional Monarchy",
+        "Parliamentary Democracy",
+        "Absolute Monarchy"
+      ],
+      "question": {
+        "text": "What kind of government dominated most of Europe during the 17th century?"
+      },
+      "tags": [
+        "history",
+        "1600s",
+        "europe"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c357cc59eab6f94fd14",
+      "selected": "",
+      "correctAnswer": "Karl Marx",
+      "allAnswers": [
+        "Ludwig Wittgenstein",
+        "Karl Marx",
+        "Socrates",
+        "Friedrich Nietzsche"
+      ],
+      "question": {
+        "text": "Which philosopher famously said 'Religion is the sign of the oppressed ... it is the opium of the people'?"
+      },
+      "tags": [
+        "philosophy",
+        "quotes",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "film_and_tv",
+      "id": "622a1c347cc59eab6f94f8df",
+      "selected": "",
+      "correctAnswer": "Dennis Hopper",
+      "allAnswers": [
+        "Dennis Hopper",
+        "Kevin Spacey",
+        "James Stewart",
+        "Robert Mitchum"
+      ],
+      "question": {
+        "text": "Which actor played the role of Frank Booth in Blue Velvet?"
+      },
+      "tags": [
+        "people",
+        "acting",
+        "film",
+        "film_and_tv"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "arts_and_literature",
+      "id": "63afff982d1dcedfbb654568",
+      "selected": "",
+      "correctAnswer": "The Tempest",
+      "allAnswers": [
+        "The Tempest",
+        "Othello",
+        "A Midsummer Night's Dream",
+        "Romeo and Juliet"
+      ],
+      "question": {
+        "text": "In which of Shakespeare's plays does the character 'Prospero' appear?"
+      },
+      "tags": [
+        "arts_and_literature",
+        "shakespeare",
+        "theater",
+        "fictitious_characters"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "music",
+      "id": "622a1c387cc59eab6f950b46",
+      "selected": "",
+      "correctAnswer": "The Velvet Underground",
+      "allAnswers": [
+        "Alice in Chains",
+        "The Velvet Underground",
+        "Marilyn Manson",
+        "Fall Out Boy"
+      ],
+      "question": {
+        "text": "Which band includes 'Nico'?"
+      },
+      "tags": [
+        "music"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "food_and_drink",
+      "id": "622a1c367cc59eab6f9502dc",
+      "selected": "",
+      "correctAnswer": "Gin",
+      "allAnswers": [
+        "Rum",
+        "Vodka",
+        "Gin",
+        "Avocaat"
+      ],
+      "question": {
+        "text": "The Term 'Dutch Courage' Originally Came From The Consumption Of Which Drinkt?"
+      },
+      "tags": [
+        "food_and_drink"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "history",
+      "id": "639ae2bb929b90846f2fc8b1",
+      "selected": "",
+      "correctAnswer": "Harald Hardrada",
+      "allAnswers": [
+        "Ragnar Lothbrok",
+        "Ivar the Boneless",
+        "Sweyn Forkbeard",
+        "Harald Hardrada"
+      ],
+      "question": {
+        "text": "What is the name of the legendary Viking warrior who fought in the Battle of Stamford Bridge?"
+      },
+      "tags": [
+        "history",
+        "vikings",
+        "uk"
+      ],
+      "type": "text_choice",
+      "difficulty": "medium",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3b7cc59eab6f951712",
+      "selected": "",
+      "correctAnswer": "Pantomime",
+      "allAnswers": [
+        "Colosseum",
+        "Theatrical",
+        "Pantomime",
+        "Cabaret"
+      ],
+      "question": {
+        "text": "Which word comes from a Greek word meaning 'imitator of all'?"
+      },
+      "tags": [
+        "society_and_culture",
+        "words",
+        "language"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "society_and_culture",
+      "id": "622a1c3a7cc59eab6f9511b1",
+      "selected": "",
+      "correctAnswer": "Eris",
+      "allAnswers": [
+        "Eris",
+        "Razr",
+        "Mercury",
+        "Zeus"
+      ],
+      "question": {
+        "text": "Who is the Greek equivalent of the Roman god Discordia?"
+      },
+      "tags": [
+        "ancient_greece",
+        "mythology",
+        "society_and_culture"
+      ],
+      "type": "text_choice",
+      "difficulty": "hard",
+      "regions": [],
+      "isNiche": false
+    },
+    {
+      "category": "science",
+      "id": "622a1c377cc59eab6f95047a",
+      "selected": "",
+      "correctAnswer": "heat",
+      "allAnswers": [
+        "the future",
+        "heat",
+        "the future",
+        "a neologism for the Pilates method, a system of physical exercise"
+      ],
+      "question": {
+        "text": "What is Thermology the study of?"
+      },
+      "tags": [
+        "science"
+      ],
+      "type": "text_choice",
+      "difficulty": "easy",
+      "regions": [],
+      "isNiche": false
+    }
+]
